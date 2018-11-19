@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Free VPN Servers By DesiTech.xyz</title>
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+</head>
+<body>
+	<h1 class="text-center text-primary">Free VPN Servers ::: Powered by DesiTech.xyz</h1>
+	<marquee style="color: red; font-size: 20px;">If the VPN server not work then visit the Official website of VPN server. For Example us1.superfreevpn.com 
+ does not work then its official website is superfreevpn.com (Just remove us1 or others) 
+ </marquee>
+ <?php
+    if (isset($_GET['fbclid'])) {
+    	echo 
+		'<marquee style="color: blue; font-size: 20px;">We Welcome you Lots From our FB Page and Groups Unblock Website now 
+		 </marquee>';
+    	
+    }elseif (isset($_GET['c'])) {
+    	echo 
+		'<marquee style="color: blue; font-size: 20px;">We Welcome you Lots From our Website now 
+		 </marquee>';
+    }
+
+  ?>
+<!--- VPN Table -->
+<table class="table-dark table-striped table-hover" style="width:100%; padding: 5px;" cellpadding="2" cellspacing="0" border="1" bordercolor="#000000">
+			<tbody>
+				<tr>
+					<td style="text-align:center;">
+						<br>
+					</td>
+					<td style="text-align:center;">
+						<strong>Server</strong><br>
+					</td>
+					<td style="text-align:center;">
+						<span></span><span></span><strong>Username</strong><br>
+					</td>
+					<td style="text-align:center;">
+						<strong>Password</strong><br>
+					</td>
+					<td style="text-align:center;">
+						<strong>Country</strong><br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						1.<br>
+					</td>
+					<td style="text-align:center;">
+						us1.vpnbook.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnbook <br>
+					</td>
+					<td style="text-align:center;">
+						5bhea6u <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						2.
+					</td>
+					<td style="text-align:center;">
+						us2.vpnbook.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnbook <br>
+					</td>
+					<td style="text-align:center;">
+						5bhea6u <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						3.
+					</td>
+					<td style="text-align:center;">
+						ca1.vpnbook.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnbook <br>
+					</td>
+					<td style="text-align:center;">
+						5bhea6u <br>
+					</td>
+					<td style="text-align:center;">
+						Canada
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						4.
+					</td>
+					<td style="text-align:center;">
+						de233.vpnbook.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnbook <br>
+					</td>
+					<td style="text-align:center;">
+						5bhea6u <br>
+					</td>
+					<td style="text-align:center;">
+						Germany
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						5.
+					</td>
+					<td style="text-align:center;">
+						<span></span>fr1.vpnbook.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnbook <br>
+					</td>
+					<td style="text-align:center;">
+						5bhea6u <br>
+					</td>
+					<td style="text-align:center;">
+						France
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						6.
+					</td>
+					<td style="text-align:center;">
+						it.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						Italy
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						7.
+					</td>
+					<td style="text-align:center;">
+						sg1.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						8.
+					</td>
+					<td style="text-align:center;">
+						sg2.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						9.
+					</td>
+					<td style="text-align:center;">
+						sg3.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						10.
+					</td>
+					<td style="text-align:center;">
+						usa1.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						USA
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						11.
+					</td>
+					<td style="text-align:center;">
+						gr.vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						vpnjantit.com <br>
+					</td>
+					<td style="text-align:center;">
+						i0ryj <br>
+					</td>
+					<td style="text-align:center;">
+						Germany
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						12.
+					</td>
+					<td style="text-align:center;">
+						uk.realfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						realfreevpn <br>
+					</td>
+					<td style="text-align:center;">
+						25570 <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						13.
+					</td>
+					<td style="text-align:center;">
+						de.realfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						realfreevpn <br>
+					</td>
+					<td style="text-align:center;">
+						93937 <br>
+					</td>
+					<td style="text-align:center;">
+						Germany
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						14.
+					</td>
+					<td style="text-align:center;">
+						fr.realfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						realfreevpn <br>
+					</td>
+					<td style="text-align:center;">
+						76216 <br>
+					</td>
+					<td style="text-align:center;">
+						France
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						15.
+					</td>
+					<td style="text-align:center;">
+						us1.superfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free <br>
+					</td>
+					<td style="text-align:center;">
+						1596 <br>
+					</td>
+					<td style="text-align:center;">
+						USA (Miami)<span></span> 
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						16.
+					</td>
+					<td style="text-align:center;">
+						us2.superfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free <br>
+					</td>
+					<td style="text-align:center;">
+						2737 <br>
+					</td>
+					<td style="text-align:center;">
+						USA (Chicago)
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						17.
+					</td>
+					<td style="text-align:center;">
+						uk.superfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free <br>
+					</td>
+					<td style="text-align:center;">
+						7833 <br>
+					</td>
+					<td style="text-align:center;">
+						UK (London)<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						18.
+					</td>
+					<td style="text-align:center;">
+						ca.superfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free <br>
+					</td>
+					<td style="text-align:center;">
+						1251 <br>
+					</td>
+					<td style="text-align:center;">
+						Canada (Montreal)<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						19.
+					</td>
+					<td style="text-align:center;">
+						nl.superfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free <br>
+					</td>
+					<td style="text-align:center;">
+						2988 <br>
+					</td>
+					<td style="text-align:center;">
+						Netherlands (Brabant)<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						20.
+					</td>
+					<td style="text-align:center;">
+						us.websitevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						websitevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						freevpn <br>
+					</td>
+					<td style="text-align:center;">
+						USA
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						21.
+					</td>
+					<td style="text-align:center;">
+						uk.websitevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						websitevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						freevpn <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						22.
+					</td>
+					<td style="text-align:center;">
+						ca.justfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						justfreevpn <br>
+					</td>
+					<td style="text-align:center;">
+						Canada Free VPN Account<br>
+					</td>
+					<td style="text-align:center;">
+						Canada
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						23.
+					</td>
+					<td style="text-align:center;">
+						uspptp.hotfreevpn.com <br>
+					</td>
+					<td style="text-align:center;">
+						free
+					</td>
+					<td style="text-align:center;">
+						1234
+					</td>
+					<td style="text-align:center;">
+						USA
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						24.
+					</td>
+					<td style="text-align:center;">
+						51.15.151.165 <br>
+					</td>
+					<td style="text-align:center;">
+						pptp
+					</td>
+					<td style="text-align:center;">
+						ykDJYnCIirN <br>
+					</td>
+					<td style="text-align:center;">
+						France<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						25.
+					</td>
+					<td style="text-align:center;">
+						128.199.221.154 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						26.
+					</td>
+					<td style="text-align:center;">
+						128.199.96.14 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						27.
+					</td>
+					<td style="text-align:center;">
+						188.166.6.170 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Netherlands<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						28.
+					</td>
+					<td style="text-align:center;">
+						188.166.155.99 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Netherlands<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						29.
+					</td>
+					<td style="text-align:center;">
+						138.68.140.197 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						30.
+					</td>
+					<td style="text-align:center;">
+						138.68.64.68 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						31.
+					</td>
+					<td style="text-align:center;">
+						159.203.111.101 <br>
+					</td>
+					<td style="text-align:center;">
+						contassh <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						USA
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						32.
+					</td>
+					<td style="text-align:center;">
+						139.59.244.147 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						33.
+					</td>
+					<td style="text-align:center;">
+						139.59.237.15 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						34.
+					</td>
+					<td style="text-align:center;">
+						128.199.214.71 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						Singapore<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						35.
+					</td>
+					<td style="text-align:center;">
+						178.62.38.164 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						36.
+					</td>
+					<td style="text-align:center;">
+						46.101.79.161 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						UK
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						37.
+					</td>
+					<td style="text-align:center;">
+						192.241.184.169 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						38.
+					</td>
+					<td style="text-align:center;">
+						192.241.179.120 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						39.
+					</td>
+					<td style="text-align:center;">
+						162.243.33.71 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+				<tr>
+					<td style="text-align:center;">
+						40.
+					</td>
+					<td style="text-align:center;">
+						162.243.15.104 <br>
+					</td>
+					<td style="text-align:center;">
+						sshagan <br>
+					</td>
+					<td style="text-align:center;">
+						abcd1234 <br>
+					</td>
+					<td style="text-align:center;">
+						USA<br>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<br>
+		<br>
+		<h6>Provided with <i style="color: red;" class="fa fa-heart"></i> by <a href="https://www.fb.com/sajidkhanrock1">Sajid Khan Rock</a></h6>
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</body>
+</html>
+
